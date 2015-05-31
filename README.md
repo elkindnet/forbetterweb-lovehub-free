@@ -4,16 +4,13 @@
 
 ###[Live Demo](http://elkindnet.github.io/forbetterweb-lovehub-free/) | [Download](https://github.com/elkindnet/forbetterweb-lovehub-free/archive/gh-pages.zip)
 
-LoveHub is a responsive, one page theme for [Bootstrap](http://forbetterweb.com/) created by [ForBetterWeb.com](http://forbetterweb.com/). The theme features multiple content sections with an off canvas navigation menu.
+LoveHub is a unique multipurpose, easy to use, lightweight and fast loading, responsive, one page bootstrap theme  created by [ForBetterWeb.com](http://forbetterweb.com/) for building simple and beautiful website. Made for developers, designers, bloggers and creative people.
+
+This template has emphasis on content and different elements for multipurpose use and it is perfectly suit for any website or blog.
 
 ## Creator
 
 ForBetterWeb.com was created by and is maintained by **Jeny Elind** [ELKIND.NET](http://elkind.net/).
-
-* https://github.com/jenyelkind
-* https://elkind.net
-* https://www.facebook.com/jenyelkind
-* https://twitter.com/jenyelkind
 
 ForBetterWeb.com is based on the [Bootstrap](http://getbootstrap.com/) framework created by [Mark Otto](https://twitter.com/mdo) and [Jacob Thorton](https://twitter.com/fat).
 
