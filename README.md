@@ -4,7 +4,7 @@
 
 ###[Live Demo](http://elkindnet.github.io/forbetterweb-lovehub-free/) | [Download](https://github.com/elkindnet/forbetterweb-lovehub-free/archive/gh-pages.zip)
 
-[LoveHub](http://forbetterweb.com/) is a responsive, one page portfolio theme for [Bootstrap](http://forbetterweb.com/) created by [ForBetterWeb.com](http://forbetterweb.com/). The theme features multiple content sections with an off canvas navigation menu.
+LoveHub is a responsive, one page theme for [Bootstrap](http://forbetterweb.com/) created by [ForBetterWeb.com](http://forbetterweb.com/). The theme features multiple content sections with an off canvas navigation menu.
 
 ## Creator
 
@@ -19,4 +19,4 @@ ForBetterWeb.com is based on the [Bootstrap](http://getbootstrap.com/) framework
 
 ## Copyright and License
 
-Copyright 2013-2015 forbetterweb.com. Code released under the [Apache 2.0](https://github.com/IronSummitMedia/startbootstrap-stylish-portfolio/blob/gh-pages/LICENSE) license.
+Copyright 2013-2015 forbetterweb.com. Code released under the [Apache 2.0](http://elkindnet.github.io/forbetterweb-lovehub-free/LICENSE.txt) license.
