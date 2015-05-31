@@ -10,7 +10,7 @@ This template has emphasis on content and different elements for multipurpose us
 
 ## Creator
 
-[ForBetterWeb.com](http://forbetterweb.com/) was created by and is maintained by **Jeny Elind** - [ELKIND.NET](http://elkind.net/).
+[ForBetterWeb.com](http://forbetterweb.com/) was created by and is maintained by **Jeny Elind** - [elkind.net](http://elkind.net/).
 
 ForBetterWeb.com is based on the [Bootstrap](http://getbootstrap.com/) framework created by [Mark Otto](https://twitter.com/mdo) and [Jacob Thorton](https://twitter.com/fat).
 
