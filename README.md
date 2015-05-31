@@ -1,4 +1,4 @@
-# [ForBetterWeb.com](http://forbetterweb.com/) - [LoveHub Free](http://forbetterweb.com/)
+# [ForBetterWeb.com](http://forbetterweb.com/) - LoveHub - Responsive Multipurpose Template
 
 <img src="http://elkindnet.github.io/forbetterweb-lovehub-free/img/screenshot.jpg">
 
