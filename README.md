@@ -2,7 +2,7 @@
 
 <img src="http://elkindnet.github.io/forbetterweb-lovehub-free/img/screenshot.jpg">
 
-###[Live Demo](http://elkindnet.github.io/forbetterweb-lovehub-free/) | [Download](https://github.com/elkindnet/forbetterweb-lovehub-free/archive/gh-pages.zip)
+###[Live Demo](http://elkindnet.github.io/forbetterweb-lovehub-free/) | [Download Free Version](https://github.com/elkindnet/forbetterweb-lovehub-free/archive/gh-pages.zip) | [Download Pro Version $7](https://wrapbootstrap.com/theme/lovehub-multipurpose-non-profit-theme-WB0T1J69J) |
 
 LoveHub is a unique multipurpose, easy to use, lightweight and fast loading, responsive, one page bootstrap theme  created by [ForBetterWeb.com](http://forbetterweb.com/) for building simple and beautiful website. Made for developers, designers, bloggers and creative people.
 
